@@ -1,3 +1,13 @@
+# TG PROXY Ho1zze
+
+## ❤️ Благодарность / Поддержать проект
+
+Если эта программа оказалась вам полезна, вы можете поддержать её дальнейшую разработку:
+
+* [Поддержать автора через Cloudtips](https://pay.cloudtips.ru/p/dc9a1539)
+
+
+
 # TG PROXY Ho1zze — Android
 
 **TG PROXY Ho1zze** для Android — лёгкий локальный WebSocket MTProto-прокси для стабильной работы Telegram на Wi-Fi и мобильном интернете (4G/LTE).
